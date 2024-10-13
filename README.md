@@ -1,5 +1,5 @@
 # HTML5-CSS3-BOOTSTRAP5-TAILWIND-JAVASCRIPT
-This repository contains various web projects developed using HTML5, CSS3, Bootstrap5, Tailwind, and JavaScript. These projects were created to enhance my web design and development skills.
+This repository contains various tutorials developed using HTML5, CSS3, Bootstrap5, Tailwind, and JavaScript. These projects were created to enhance my web design and development skills.
 
 ## Technologies Used:
 
